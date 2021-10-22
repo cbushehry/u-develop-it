@@ -1,0 +1,23 @@
+{
+  "name": "u-develop-it",
+  "version": "1.0.0",
+  "description": "Voting Application",
+  "main": "index.js",
+  "dependencies": {
+    "mysql2": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbushehry/u-develop-it.git"
+  },
+  "author": "Cameron Bushehry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbushehry/u-develop-it/issues"
+  },
+  "homepage": "https://github.com/cbushehry/u-develop-it#readme"
+}
